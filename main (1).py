@@ -1,3 +1,4 @@
+#This is a API web search program created by Derrick Hobbs it is licensed under the Creative Common Attribution Non Commercial (CC BY -NC) License Copyright(C) 2026 Derrick Hobbs#
 import requests
 
 # --- Query Box ---
